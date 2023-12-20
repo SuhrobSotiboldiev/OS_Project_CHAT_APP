@@ -1,0 +1,4 @@
+C:/Users/Windows 10/Downloads/Telegram Desktop/chat/chat/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/Windows 10/Downloads/Telegram Desktop/chat/chat/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/Windows 10/Downloads/Telegram Desktop/chat/chat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Windows 10/Downloads/Telegram Desktop/chat/chat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
